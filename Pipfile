@@ -7,14 +7,16 @@ verify_ssl = true
 
 [packages]
 beautifulsoup4 = "*"
-jupyter = "*"
+jupyter_server = "*"
+jupyterlab = "*"
 lxml="*"
 matplotlib = "*"
 openpyxl = "*"
 pandas = "*"
 requests = "*"
 sklearn = "*"
-statsmodels="*"
+statsmodels = "*"
+tensorflow = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"

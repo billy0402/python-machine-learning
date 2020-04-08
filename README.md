@@ -1,7 +1,13 @@
 # python-machine-learning
 
 ## environment
-- [macOS 10.15.1](https://www.apple.com/tw/macos/catalina/)
-- [PyCharm 2019.3](https://www.jetbrains.com/pycharm/)
-- [Python 3.7.5](https://www.python.org/)
-- [scikit-learn 0.21.3](https://github.com/scikit-learn/scikit-learn)
+- [macOS 10.15.4](https://www.apple.com/tw/macos/catalina/)
+- [PyCharm 2019.3.4](https://www.jetbrains.com/pycharm/)
+- [Python 3.7.6](https://www.python.org/)
+- [scikit-learn 0.22.2](https://github.com/scikit-learn/scikit-learn)
+- [TensorFlow 2.1.0](https://www.tensorflow.org/)
+
+## [Pipenv](https://github.com/pypa/pipenv)
+```shell
+$ pipenv install
+```
