@@ -11,3 +11,21 @@
 ```shell
 $ pipenv install
 ```
+
+## virtual env
+```shell
+$ python -m venv .venv
+
+# macOS
+$ source ./.venv/bin/activate
+# Winodws
+$ .\.venv\Scripts\activate.bat
+
+$ deactivate
+```
+
+### requirements.txt
+```shell
+$ pip freeze > requirements.txt
+$ pip install -r requirements.txt
+```
