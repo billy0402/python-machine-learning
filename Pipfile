@@ -7,6 +7,7 @@ verify_ssl = true
 
 [packages]
 beautifulsoup4 = "*"
+ipywidgets = "*"
 jupyter_server = "*"
 jupyterlab = "*"
 lxml="*"
@@ -18,6 +19,7 @@ requests = "*"
 sklearn = "*"
 statsmodels = "*"
 tensorflow = "*"
+tensorflow-datasets = "*"
 
 [requires]
 python_version = "3.7"
